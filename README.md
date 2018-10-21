@@ -9,4 +9,4 @@ Libre Graphics Community Print Shoppe dev for Mozilla Open Leads
 
 + Totally hypothetical at the moment.
 
-Here you will find a collection of documents created during Mozilla Open Leaders (Cohort 6) that help clarify this idea. 
+Here you will find a collection of documents created during Mozilla Open Leaders (Cohort 6) that help develop and articulate this idea. 
